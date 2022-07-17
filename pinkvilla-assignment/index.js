@@ -37,7 +37,7 @@ for(let i=0; i<15;i++){
         // console.log(link1[0])
 
         //console.log("start",total,"new");
-        console.log(total);
+        //console.log(total);
         }
 
     foo(data)
